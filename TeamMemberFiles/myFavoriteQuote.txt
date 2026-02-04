@@ -1,0 +1,4 @@
+Quote: "Be the change you wish to see in the world."
+- Gandhi
+
+Preferred tech stack: MERN
